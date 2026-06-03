@@ -1,4 +1,4 @@
-# Autonomous Edge-AI Inspection Drone
+# Autonomous AI Inspection Drone
 
 ## Overview
 This repository contains the documentation and milestone planning for a 10-week summer research project developing an AI inspection drone. The system utilizes a Raspberry Pi to process Edge AI vision models in real-time to identify structural defects.
