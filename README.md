@@ -10,7 +10,7 @@ This repository contains the documentation and milestone planning for a 10-week 
 * **Propulsion Upgrade (In Progress):** Transitioning to four A2212 1000KV Brushless Motors and matched 12x6E APC propellers (CW/CCW) to resolve a low-end torque deficit and prevent ESC overload.
 
 ## Repository Contents
-* **Week 1 AI Drone Project Presentation:** Slide deck detailing the initial hardware audit, timeline feasibility, and the pivot to a GPS-denied indoor inspection protocol.
+* **Week 1 AI Drone Project Presentation:** Slide deck detailing the initial hardware audit, timeline feasibility, and the end goal for the summer
 * **Drone Files:** SolidWorks and STL files for the drone parts
 * **Drone Project Documentation** Concise description of all of the software and hardware parts from Summer 2025
 
