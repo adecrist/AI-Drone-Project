@@ -20,7 +20,7 @@ This repository contains the documentation and milestone planning for a 10-week 
 3. Establish connection to the Raspberry Pi and connect to the video camera
 
 ## Live Drone Footage Steps
-1. Connect to the Local Drone Network
+1. Connect to the Local Drone Network (PiCam)
 2. Verify IP Address by running ipconfig in Windows PowerShell, currently 192.168.4.42
 3. In PowerShell type cd "OneDrive\AI Drone Project 2026" ; then python stream.py
 4. Connect to Raspberry Pi using ssh terminal
