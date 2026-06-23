@@ -26,3 +26,9 @@ This repository contains the documentation and milestone planning for a 10-week 
 4. Connect to Raspberry Pi using ssh terminal
 5. Run command: libcamera-vid -t 0 --width 640 --height 480 --framerate 25 --codec h264 --inline --hflip --vflip -o udp://192.168.4.42:5001
 6. To shut down press q key on the video feed window and ctrl + c in the raspberry pi terminal
+
+## Running Gyroscope/Motors
+1. ssh lpan@192.168.4.1 & Enter Password Steven27
+2. For motor test: (nano ~/demo_spin.py) to edit code and (python3 ~/demo_spin.py) to run code
+4. For gyroscope test: (nano ~/demo_spin.py) to edit code and (python3 mpu_test.py) to run code
+
