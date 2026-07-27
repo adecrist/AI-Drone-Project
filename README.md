@@ -32,3 +32,12 @@ This repository contains the documentation and milestone planning for a 10-week 
 2. For motor test: (nano ~/demo_spin.py) to edit code and (python3 ~/demo_spin.py) to run code
 4. For gyroscope test: (nano ~/demo_spin.py) to edit code and (python3 mpu_test.py) to run code
 
+## Connecting Controller/Transmitter
+1. Plug in battery on the drone
+2. Hold down the button on the saftey switch, connected to Pixhawk, should hear motor start up sound
+3. Turn on the FlySky Transmitter
+4. Make sure the throttle is all the way down and the SWA switch if pushed up
+5. Bring throttle to the bottom right position until the blue light on the pixhawk is a solid blue
+6. Transmitter is then connected
+7. To disconnect flick SWA down, then bring throttle to bottom left position until Pixhawk is flashing green
+
